@@ -37,3 +37,6 @@ and the lesson will be marked 'completed' if you are successful.
  » For help run: learnyoucouchdb help
 */
 
+curl -X PUT http://127.0.0.1:5984/couchdbschool/robert -d '{"_id": "robert","type": "human"}'
+
+
