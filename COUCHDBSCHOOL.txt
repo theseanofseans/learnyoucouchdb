@@ -1,0 +1,33 @@
+
+ LEARN YOU COUCHDB FOR GREAT GOOD!
+───────────────────────────────────
+ COUCHDBSCHOOL
+ Exercise 1 of 4
+
+Welcome to learnyoucouchdb! Your first task is to install and start
+Apache CouchDB! You can download CouchDB from
+https://couchdb.apache.org/
+
+Did you know that CouchDB has excellent docs? You can finde them at
+http://docs.couchdb.org/
+
+-------------------------------------------------------------------------------
+
+## HINTS
+
+You can use curl or a http client in whatever programming language you
+want to use.
+
+When you are done, you must run:
+
+    $ learnyoucouchdb verify
+
+to proceed. The result will be tested, a report will be generated,
+and the lesson will be marked 'completed' if you are successful.
+
+-------------------------------------------------------------------------------
+
+ » To print these instructions again, run: learnyoucouchdb print
+ » To verify your program, run: learnyoucouchdb verify
+ » For help run: learnyoucouchdb help
+
