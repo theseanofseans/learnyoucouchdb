@@ -1,0 +1,39 @@
+
+/*
+
+ LEARN YOU COUCHDB FOR GREAT GOOD!
+───────────────────────────────────
+ HELLO COUCHDB
+ Exercise 2 of 4
+
+Start Apache CouchDB and create a database named couchdbschool by
+using HTTP.
+
+After you created the database, please insert this document:
+
+    {
+      "_id": "robert",
+      "type": "human"
+    }
+
+-------------------------------------------------------------------------------
+
+## HINTS
+
+You can use curl or a http client in whatever programming language you
+want to use.
+
+When you are done, you must run:
+
+    $ learnyoucouchdb verify
+
+to proceed. The result will be tested, a report will be generated,
+and the lesson will be marked 'completed' if you are successful.
+
+-------------------------------------------------------------------------------
+
+ » To print these instructions again, run: learnyoucouchdb print
+ » To verify your program, run: learnyoucouchdb verify
+ » For help run: learnyoucouchdb help
+*/
+
